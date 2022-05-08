@@ -1,14 +1,21 @@
 body {
-    background: lightgray;
+    background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/11/nyc-skyline-02.jpg");
     
 }
 h1 {
     color: white;
     font-size: 50px;
     text-align: left;
-    margin-left: 20px;
-    font-family: Tahoma;
 }
 h2 {
-    color: rgb(125, 125, 226);
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 50%;
+    text-align: left;
+    background-color: white;
+}
+h2 p {
+    margin-left: 10px;
+    text-align: left;
+    font-size: 18px;
 }
