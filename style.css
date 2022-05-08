@@ -7,7 +7,7 @@ h1 {
     font-size: 50px;
     text-align: left;
 }
-h2 {
+h2, h3 {
     margin-top: 5px;
     margin-left: 10px;
     margin-right: 50%;
@@ -17,5 +17,5 @@ h2 {
 h2 p {
     margin-left: 10px;
     text-align: left;
-    font-size: 18px;
+    font-size: 20px;
 }
